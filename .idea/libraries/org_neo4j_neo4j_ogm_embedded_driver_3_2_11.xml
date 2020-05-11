@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.neo4j:neo4j-ogm-embedded-driver:3.2.11" type="repository">
+    <properties maven-id="org.neo4j:neo4j-ogm-embedded-driver:3.2.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-ogm-embedded-driver-3.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-ogm-api-3.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jdk8-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/neo4j-ogm-core-3.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/classgraph-4.8.72.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
